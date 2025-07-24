@@ -24,7 +24,7 @@ Apache Airflow
 
 Virtualenv pour isoler l’environnement
 
-# Instalation du projet 
+# Installation du projet 
 
 python -m venv env
 source venv/bin/activate  # Linux/macOS
